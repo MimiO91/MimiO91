@@ -1,0 +1,30 @@
+h1{
+font-size: 30px;
+text-align: center;
+color: #de717e;
+}
+
+h2{font-size: 25px;
+text-align: center;
+color: #b471de;
+}
+
+p{
+font-size: 15px;
+text-align: center;
+font-family: Helvetica, sans-serif;
+color: #de717e;
+}
+
+
+body {
+background-color: black;
+background: black;
+}
+
+img { 
+    display: flex;
+    width: 349px;
+    justify-self: center;
+
+ }
