@@ -41,8 +41,6 @@ Bonjour ! Je suis Reem, une **analyste de données & passionnée d'IA**, avec un
 ### 🎶 En écoute
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=h5ww5k7c2qwkhic6354u6g2pr)
 
-📌 **Astuce :** Pour activer le widget Spotify, remplacez `your-spotify-id` par votre identifiant Spotify.
-
 ---
 
 ✨ **Encourager les femmes dans la tech et construire l'avenir avec les données!** 🚀
