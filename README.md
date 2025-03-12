@@ -1,6 +1,6 @@
 ## 🚀 Bonjour👋, Je suis Reem
 
-<img src="https://github.com/MimiO91/MimiO91/blob/main/pexels-googledeepmind-18069696.jpg" alt="Header Image" width="50%" />  
+<img src="https://github.com/MimiO91/MimiO91/blob/main/pexels-googledeepmind-18069696.jpg" alt="Header Image" width="100%" />  
 
 **🔹 Analyste de données & Passionnée d'IA**  
 Avec une volonté d'exploiter la technologie pour innover. Je suis engagée dans l'autonomisation des femmes dans la tech et le développement de solutions basées sur les données.
@@ -66,7 +66,7 @@ Avec une volonté d'exploiter la technologie pour innover. Je suis engagée dans
 
 ---
 
-### 📬 Où Me Trouver
+### 💌 Où Me Trouver
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/r-bouqueau">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
