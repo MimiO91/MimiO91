@@ -1,46 +1,72 @@
-# 👩‍💻 Bienvenue sur mon dépôt GitHub
+## 🚀 Bonjour👋, Je suis Reem
 
-![En-tête](https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Innover%20avec%20la%20Technologie&fontSize=35&fontColor=white)
+![Header Image](https://your-image-url.com)  
 
-## 🚀 À propos de moi
-Bonjour ! Je suis Reem, une **analyste de données & passionnée d'IA**, avec une volonté d'exploiter la technologie pour innover. Je suis engagée dans l'autonomisation des femmes dans la tech et le développement de solutions basées sur les données.
-
-
-- 🌱 J'apprends **l'Analyse Avancée des Données et les Applications de l'IA**
-- 💬 Posez-moi des questions sur **SQL, Python, l'analyse de données-Pandas, ML, WebScrapping, API, IA & outils BI, , AWS-Cloud, Docker, dbt**
-- 📫 Contactez-moi : **reemosman911@gmail.com**
-- 🎯 Fun fact : Je milite pour **la diversité dans la tech et l'éthique de l'IA**
+**🔹 Data Analyst & Passionnée d'IA**  
+Avec une volonté d'exploiter la technologie pour innover. Je suis engagée dans l'autonomisation des femmes dans la tech et le développement de solutions basées sur les données.
 
 ---
 
-## 📊 Statistiques GitHub
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=MimiO91&show_icons=true&theme=github_dark)
-
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=MimiO91&layout=compact&theme=github_dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MimiO91&theme=github_dark)
-
----
-
-## 🛠 Technologies utilisées
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
----
-
-## 🔗 Me contacter
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r-bouqueau)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MimiO91)
-
----
-
-### 🎶 En écoute
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=h5ww5k7c2qwkhic6354u6g2pr)
+### 🚀 Languages and Tools I Use
+<p align="center">
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" />
+  </a>
+</p>
 
 ---
 
-✨ **Encourager les femmes dans la tech et construire l'avenir avec les données!** 🚀
+### 📌 Featured Projects
+
+#### 🎥 Movie Recommendation System
+![Movie Project](https://github.com/MimiO91/MimiO91/blob/main/pexels-tima-miroshnichenko-7991378.jpg)  
+🔹 Built with **Python, Pandas, Machine Learning**  
+🔹 Uses **IMDB & TMDB datasets** to suggest personalized movie recommendations  
+🔹 Developed with **Streamlit for an interactive UI**  
+[🔗 View Project](#)
+
+#### 📊 SQL & Power BI Dashboard
+![Dashboard](https://github.com/MimiO91/MimiO91/blob/main/pexels-labskiii-12879442.jpg)  
+🔹 Designed an **SQL database** with optimized queries  
+🔹 Created **interactive Power BI dashboards** for data visualization  
+[🔗 View Project](#)
+
+#### ✈️ Travel App with APIs
+![Travel App](https://github.com/MimiO91/MimiO91/blob/main/pexels-arcanjosaddi-31052940.jpg)  
+🔹 Integrated **Google Places API, Ticketmaster API, Airbnb API**  
+🔹 Developed using **Pandas & Streamlit** for seamless travel planning  
+[🔗 View Project](#)
+
+---
+
+### 📬 Where to Find Me
+<p align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/r-bouqueau">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a target="_blank" href="https://github.com/MimiO91">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+🚀 Always learning, always building! Feel free to explore my projects and connect. Let's create something awesome together!
