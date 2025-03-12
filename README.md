@@ -1,6 +1,6 @@
 ## 🚀 Bonjour👋, Je suis Reem
 
-![Header Image](https://your-image-url.com)  
+![Header Image](https://github.com/MimiO91/MimiO91/blob/main/pexels-googledeepmind-18069696.jpg)  
 
 **🔹 Data Analyst & Passionnée d'IA**  
 Avec une volonté d'exploiter la technologie pour innover. Je suis engagée dans l'autonomisation des femmes dans la tech et le développement de solutions basées sur les données.
