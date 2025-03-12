@@ -9,20 +9,25 @@ Avec une volonté d'exploiter la technologie pour innover. Je suis engagée dans
 
 ### 🚀 Langages et Outils que J'utilise
 <p align="center">
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42" />
+  <a target="_blank" href="https://www.python.org">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
+         alt="Python" width="42" height="42" />
   </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="42" height="42" />
+  <a target="_blank" href="https://pandas.pydata.org">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" 
+         alt="Pandas" width="42" height="42" />
   </a>
-  <a target="_blank" href="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="42" height="42" />
+  <a target="_blank" href="https://seaborn.pydata.org">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" 
+         alt="Seaborn" width="42" height="42" />
   </a>
-  <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" width="42" height="42" />
+  <a target="_blank" href="https://scikit-learn.org">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" 
+         alt="Scikit Learn" width="42" height="42" />
   </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42" />
+  <a target="_blank" href="https://www.mysql.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" 
+         alt="MySQL" width="42" height="42" style="background-color: white; border-radius: 5px; padding: 5px;" />
   </a>
 </p>
 
@@ -30,8 +35,9 @@ Avec une volonté d'exploiter la technologie pour innover. Je suis engagée dans
 
 ### 📌 Projets Mis en Avant
 
-#### 🎥 Système de Recommandation de Films
-<img src="https://github.com/MimiO91/MimiO91/blob/main/pexels-tima-miroshnichenko-7991378.jpg" alt="Movie Recommendation System" width="50%" />  
+#### 🎥 **Système de Recommandation de Films**
+<img src="https://github.com/MimiO91/MimiO91/blob/main/pexels-tima-miroshnichenko-7991378.jpg" 
+     alt="Movie Recommendation System" width="50%" />  
 
 🔹 Développé avec **Python, Pandas, Machine Learning**  
 🔹 Utilise les **datasets IMDB & TMDB** pour recommander des films personnalisés  
@@ -40,8 +46,9 @@ Avec une volonté d'exploiter la technologie pour innover. Je suis engagée dans
 
 ---
 
-#### 📊 Tableau de Bord SQL & Power BI
-<img src="https://github.com/MimiO91/MimiO91/blob/main/pexels-labskiii-12879442.jpg" alt="SQL & Power BI Dashboard" width="50%" />  
+#### 📊 **Tableau de Bord SQL & Power BI**
+<img src="https://github.com/MimiO91/MimiO91/blob/main/pexels-labskiii-12879442.jpg" 
+     alt="SQL & Power BI Dashboard" width="50%" />  
 
 🔹 Base de données SQL avec **requêtes optimisées**  
 🔹 Création de **tableaux de bord interactifs** avec Power BI  
@@ -49,8 +56,9 @@ Avec une volonté d'exploiter la technologie pour innover. Je suis engagée dans
 
 ---
 
-#### ✈️ Application de Voyage avec API
-<img src="https://github.com/MimiO91/MimiO91/blob/main/pexels-arcanjosaddi-31052940.jpg" alt="Travel App" width="50%" />  
+#### ✈️ **Application de Voyage avec API**
+<img src="https://github.com/MimiO91/MimiO91/blob/main/pexels-arcanjosaddi-31052940.jpg" 
+     alt="Travel App" width="50%" />  
 
 🔹 Intégration de **Google Places API, Ticketmaster API, Airbnb API**  
 🔹 Développement avec **Pandas & Streamlit** pour une planification fluide des voyages  
