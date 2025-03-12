@@ -1,13 +1,13 @@
 ## 🚀 Bonjour👋, Je suis Reem
 
-![Header Image](https://github.com/MimiO91/MimiO91/blob/main/pexels-googledeepmind-18069696.jpg)  
+![](https://github.com/MimiO91/MimiO91/blob/main/pexels-googledeepmind-18069696.jpg =50%)  
 
-**🔹 Data Analyst & Passionnée d'IA**  
+**🔹 Analyste de données & Passionnée d'IA**  
 Avec une volonté d'exploiter la technologie pour innover. Je suis engagée dans l'autonomisation des femmes dans la tech et le développement de solutions basées sur les données.
 
 ---
 
-### 🚀 Languages and Tools I Use
+### 🚀 Langages et Outils que J'utilise
 <p align="center">
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" />
@@ -24,40 +24,34 @@ Avec une volonté d'exploiter la technologie pour innover. Je suis engagée dans
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" />
   </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" />
-  </a>
 </p>
 
 ---
 
-### 📌 Featured Projects
+### 📌 Projets Mis en Avant
 
-#### 🎥 Movie Recommendation System
-![Movie Project](https://github.com/MimiO91/MimiO91/blob/main/pexels-tima-miroshnichenko-7991378.jpg)  
-🔹 Built with **Python, Pandas, Machine Learning**  
-🔹 Uses **IMDB & TMDB datasets** to suggest personalized movie recommendations  
-🔹 Developed with **Streamlit for an interactive UI**  
-[🔗 View Project](#)
+#### 🎥 Système de Recommandation de Films
+![](https://github.com/MimiO91/MimiO91/blob/main/pexels-tima-miroshnichenko-7991378.jpg =50%)  
+🔹 Développé avec **Python, Pandas, Machine Learning**  
+🔹 Utilise les **datasets IMDB & TMDB** pour recommander des films personnalisés  
+🔹 Interface interactive avec **Streamlit**  
+[🔗 Voir le Projet](#)
 
-#### 📊 SQL & Power BI Dashboard
-![Dashboard](https://github.com/MimiO91/MimiO91/blob/main/pexels-labskiii-12879442.jpg)  
-🔹 Designed an **SQL database** with optimized queries  
-🔹 Created **interactive Power BI dashboards** for data visualization  
-[🔗 View Project](#)
+#### 📊 Tableau de Bord SQL & Power BI
+![](https://github.com/MimiO91/MimiO91/blob/main/pexels-labskiii-12879442.jpg =50%)  
+🔹 Base de données SQL avec **requêtes optimisées**  
+🔹 Création de **tableaux de bord interactifs** avec Power BI  
+[🔗 Voir le Projet](#)
 
-#### ✈️ Travel App with APIs
-![Travel App](https://github.com/MimiO91/MimiO91/blob/main/pexels-arcanjosaddi-31052940.jpg)  
-🔹 Integrated **Google Places API, Ticketmaster API, Airbnb API**  
-🔹 Developed using **Pandas & Streamlit** for seamless travel planning  
-[🔗 View Project](#)
+#### ✈️ Application de Voyage avec API
+![](https://github.com/MimiO91/MimiO91/blob/main/pexels-arcanjosaddi-31052940.jpg =50%)  
+🔹 Intégration de **Google Places API, Ticketmaster API, Airbnb API**  
+🔹 Développement avec **Pandas & Streamlit** pour une planification fluide des voyages  
+[🔗 Voir le Projet](#)
 
 ---
 
-### 📬 Where to Find Me
+### 📬 Où Me Trouver
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/r-bouqueau">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
@@ -69,4 +63,4 @@ Avec une volonté d'exploiter la technologie pour innover. Je suis engagée dans
 
 ---
 
-🚀 Always learning, always building! Feel free to explore my projects and connect. Let's create something awesome together!
+🚀 Toujours en apprentissage, toujours en construction ! Explorez mes projets et connectons-nous. Créons quelque chose d'incroyable ensemble !
